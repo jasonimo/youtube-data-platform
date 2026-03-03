@@ -1,4 +1,3 @@
-import tempfile
 from app.utils.config import load_channels
 
 def test_load_channels_valid(tmp_path):
